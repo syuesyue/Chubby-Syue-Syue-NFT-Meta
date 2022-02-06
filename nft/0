@@ -1,0 +1,19 @@
+{
+  "description": "Syue Syue Spring Festival Couplets Ver.", 
+  "external_url": "https://opensea.io/assets/0x6c785e5dd1c6ec1e13730e07e63af007ecc9b851/0", 
+  "image": "ipfs://QmZBPVd4WdvgrZxo7UGCbHvzSS639sUMZcppnrecW1XAqY", 
+  "name": "Syue Syue #0",
+  "attributes": [ {
+      "trait_type": "Version", 
+      "value": "Spring Festival 2022"
+   },
+   {
+       "trait_type": "Color", 
+       "value": "Original"
+   },
+   {
+       "trait_type": "Lucky Message", 
+       "value": "May fortunes find the way to you"
+   }
+  ]
+}

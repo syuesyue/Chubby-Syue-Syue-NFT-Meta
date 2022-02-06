@@ -1,0 +1,19 @@
+{
+  "description": "Syue Syue Spring Festival Couplets Ver.", 
+  "external_url": "https://opensea.io/assets/0x6c785e5dd1c6ec1e13730e07e63af007ecc9b851/7", 
+  "image": "ipfs://QmQDwbC2ZUmn7PAufVme7yUAnd5nzPjJxWrV3UkdBbiEW3", 
+  "name": "Syue Syue #7",
+  "attributes": [ {
+      "trait_type": "Version", 
+      "value": "Spring Festival"
+   },
+   {
+       "trait_type": "Color", 
+       "value": "Original"
+   },
+   {
+       "trait_type": "Lucky Message", 
+       "value": "Wishing you luck for the new year"
+   }
+  ]
+}

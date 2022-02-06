@@ -1,0 +1,19 @@
+{
+  "description": "Syue Syue Spring Festival Couplets Ver.", 
+  "external_url": "https://opensea.io/assets/0x6c785e5dd1c6ec1e13730e07e63af007ecc9b851/4", 
+  "image": "ipfs://QmVkgHdriHxfk7zjofKe6DmkP2aJcPXWoPeuChtY4A9UiF", 
+  "name": "Syue Syue #4",
+  "attributes": [ {
+      "trait_type": "Version", 
+      "value": "Spring Festival"
+   },
+   {
+       "trait_type": "Color", 
+       "value": "Original"
+   },
+   {
+       "trait_type": "Lucky Message", 
+       "value": "May everything go well for you"
+   }
+  ]
+}
